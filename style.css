@@ -1,0 +1,37 @@
+body {
+    padding: 0 20%;
+}
+.fake {
+    background-color: #999;
+    height: 400px;
+    margin: 100px 0;
+}
+/* Viết code của bạn ở đây */
+#rect-red {
+    box-sizing: border-box;
+    height: 600px;
+    background-color: #c9002e;
+    text-align: center;
+    padding-top: 150px;
+}
+#text-1 {
+    color: white;
+    margin-bottom: 200px;
+}
+#text-1 > p {
+    font-size: 20px;
+    margin: 0;
+}
+#text-1 > h3 {
+    font-size: 100px;
+    margin: 0;
+}
+
+#link a {
+    margin-right: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    display: inline-block;
+}
